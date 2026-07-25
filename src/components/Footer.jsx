@@ -40,6 +40,7 @@ function Footer() {
             <h2 className="text-[24px] font-bold text-white">
               Yongsy
               <span className="text-cyan-400">.</span>
+              <span className="text-cyan-400">Din</span>
             </h2>
 
             <p className="text-gray-400 text-[14px] leading-7 mt-[15px]">

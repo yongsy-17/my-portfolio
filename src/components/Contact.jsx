@@ -70,7 +70,6 @@ function Contact() {
             <p className="text-gray-500 text-[12px]">
               Email
             </p>
-
             <a
               href="mailto:your@email.com"
               className="text-cyan-400 text-[15px] font-semibold hover:text-cyan-300"
