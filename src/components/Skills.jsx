@@ -10,7 +10,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.svg";
 import javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
-import vue from "../assets/vue.png";
+import vue from "../assets/Vue.png";
 import tailwind from "../assets/tailwind.png";
 import laravel from "../assets/laravel.png";
 import php from "../assets/php.png";
